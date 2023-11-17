@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "doil"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "doil."
+  bio              : "**RED**"
+  location         : "**Galaxy**"
   email            :
   links:
     - label: "Email"
