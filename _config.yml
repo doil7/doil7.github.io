@@ -107,7 +107,7 @@ author:
   name             : "doil"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**RED**"
-  location         : "**Galaxy**"
+  location         : "Galaxy"
   email            :
   links:
     - label: "Email"
